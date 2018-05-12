@@ -1,0 +1,33 @@
+_repo: In-Search-of-a-Siberian-Klondike_41237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41237-h/images/frontcover.jpg
+creator:
+  authors:
+  - agent_name: Vanderlip, Washington Baker
+    birthdate: 1867
+    gutenberg_agent_id: '41031'
+    url: http://www.gutenberg.org/2009/agents/41031
+  - agent_name: Hulbert, Homer B. (Homer Bezaleel)
+    alias: Hulbert, Homer Bezaleel
+    birthdate: 1863
+    deathdate: 1949
+    gutenberg_agent_id: '41059'
+    url: http://www.gutenberg.org/2009/agents/41059
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41237'
+  lccn: '03025321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Russia (Federation) -- Siberia'
+- !lcsh 'Siberia (Russia) -- Description and travel'
+- !lcc 'DK'
+title: In Search of a Siberian Klondike
+url: http://www.gutenberg.org/ebooks/41237
